@@ -97,7 +97,7 @@ if (score == 5)
 {
     Console.WriteLine($"Congratulations {name}! You have answered all of the questions correctly. Pat yourself on the back for a job well done! :)");
 }
-else if (score < 5)
+else if (score > 0)
 {
     Console.WriteLine($"well done {name}! You have managed to answer some of the questions correctly.");
 }
