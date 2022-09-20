@@ -36,7 +36,7 @@ Console.WriteLine("a. 82 dB   b. 125 dB   c. 140 dB   d. 115 dB");
 string choice2 = Console.ReadLine().ToLower();
 if (choice2 == "b")
 {
-    Console.WriteLine("The answer you have chosen is correct!");
+    Console.WriteLine("The answer you have chosen is correct! Well done!");
     score++;
 }
 else
@@ -51,7 +51,7 @@ Console.WriteLine("a. XXVI   b. XXIV   c. XXIL   d. XIXV");
 string choice3 = Console.ReadLine().ToLower();
 if (choice3 == "b")
 {
-    Console.WriteLine("The answer you have chosen is correct!");
+    Console.WriteLine("The answer you have chosen is correct! Well done!");
     score++;
 }
 else
@@ -66,7 +66,7 @@ Console.WriteLine("a. Longing   b. Longine   c. Lengthy   d. Lounger");
 string choice4 = Console.ReadLine().ToLower();
 if (choice4 == "d")
 {
-    Console.WriteLine("The answer you have chosen is correct!");
+    Console.WriteLine("The answer you have chosen is correct! Well done!");
     score++;
 }
 else
@@ -81,7 +81,7 @@ Console.WriteLine("a. $400   b. $450   c. $250   d. $200");
 string choice5 = Console.ReadLine().ToLower();
 if (choice5 == "c")
 {
-    Console.WriteLine("The answer you have chosen is correct!");
+    Console.WriteLine("The answer you have chosen is correct! Well done!");
     score++;
 }
 else
