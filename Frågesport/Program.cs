@@ -1,6 +1,19 @@
 ﻿int score = 0; //This is the players score. Every correct answer gives 1 point.
 string name;
 
+Console.WriteLine(@"
+||0000           ________________
+||    0000       [______  ______]
+||        000          [  ]
+||          00         [  ]
+||          00         [  ]
+||          00         [  ]
+||        000          [  ]
+||    0000             [  ]
+||0000                 [__]
+");
+
+
 Console.WriteLine("What is your name?");
 name = Console.ReadLine();
 
